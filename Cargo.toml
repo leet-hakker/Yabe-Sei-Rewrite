@@ -13,7 +13,7 @@ lazy_static = "1.4.0"
 dotenv = "0.15.0"
 dotenv_codegen = "0.15.0"
 log = "0.4.8"
-rusqlite = { version = "0.21.0", features = ["bundled"] }
+rusqlite = { version = "0.24.2", features = ["bundled"] }
 rand = "0.7.3"
 regex = "1"
 tokio = "0.2.13"
